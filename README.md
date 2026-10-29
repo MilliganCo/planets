@@ -1,5 +1,7 @@
 # ASCII-симулятор планет
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Десктопная "песочница" N-body гравитации с ASCII-графикой.
 
 ## Установка
@@ -44,3 +46,8 @@ python app.py
 ### Дополнительно
 - `K` — toggle коллизий (вкл/выкл)
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
